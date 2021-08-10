@@ -1,6 +1,8 @@
 # Offical-Domains
 Offical Discord Worlds Domains.
 
+![🖼](https://discordworlds.ml/img/logo.png)
+
 # Main Domain [discordworlds.ml](https://discordworlds.ml)
 • [www.discordworlds.ml](https://www.discordworlds.ml) | Redirect to the main domain <p>
 • [discordworlds.ml](https://discordworlds.ml) | Main domain <p>
@@ -10,7 +12,7 @@ Offical Discord Worlds Domains.
 # Short Domain [dworlds.ml](https://dworlds.ml)
 • [www.dworlds.ml](https://www.dworlds.ml) | Redirect to the [main domain](https://discordworlds.ml) <p>
 • [dworlds.ml](https://dworlds.ml) | Redirect to the [main domain](https://discordworlds.ml) <p>
-• [b.dworlds.ml](https://b.dworlds.ml) | Not used, maybe used soon as bot ur, shorter <p>
+• [b.dworlds.ml](https://b.dworlds.ml) | Not used, maybe used soon as bot url shorter <p>
   
 # Bot Domain [discordrobots.ml](https://discordrobots.ml)
 • [www.discordrobots.ml](https://www.discordrobots.ml) | Redirect to [discordworlds.ml/bots](https://discordworlds.ml/bots) <p>

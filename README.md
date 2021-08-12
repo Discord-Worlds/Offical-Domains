@@ -1,11 +1,11 @@
-# Offical Domains
-Offical Discord Worlds Domains. <p>
+# Official Domains
+Official Discord Worlds Domains. <p>
 Here you can see all our official domains. <p>
 
 # Main Domain [discordworlds.ml](https://discordworlds.ml)
 • [www.discordworlds.ml](https://www.discordworlds.ml) | Redirects to the main domain <p>
 • [discordworlds.ml](https://discordworlds.ml) | Main domain <p>
-• [dc.discordworlds.ml](https://dc.discordworlds.ml) | Redirects to the [offical discord server](https://dc.discordworlds.ml) <p>
+• [dc.discordworlds.ml](https://dc.discordworlds.ml) | Redirects to the [official discord server](https://dc.discordworlds.ml) <p>
   [discord-worlds.ml](https://discord-worlds.ml) | Redirect to the [main website](https://discordworlds.ml) <p>
 • [*.discordworlds.ml](https://dev.discordworlds.ml) | This covers all the website sub-domains <p>
   

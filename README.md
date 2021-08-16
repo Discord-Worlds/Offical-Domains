@@ -26,4 +26,4 @@ Here you can see all our official domains. <p>
 • [discordworldscdn.ml](https://discordworldscdn.ml) | Domain for our Content Delivery Network (CDN) <p>
 
 # Content Domain [discordworldscontent.ml](https://discordworldscontent.ml)
-• [discordworldscontent.ml](https://discordworldscontent.ml) | Domain for our Content
+• [discordworldscontent.ml](https://discordworldscontent.ml) | Domain for our Content (Not servered yet.)

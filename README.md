@@ -21,3 +21,9 @@ Here you can see all our official domains. <p>
 # Server Domain [discordplanets.ml](https://discordplanets.ml)
 • [www.discordplanets.ml](https://www.discordplanets.ml) | Redirects to [discordworlds.ml/servers](https://discordworlds.ml/servers) <p>
 • [discordplanets.ml](https://discordplanets.ml) | Redirects to [discordworlds.ml/servers](https://discordworlds.ml/servers)
+
+# CDN Domain [discordworldscdn.ml](https://discordworldscdn.ml)
+• [discordworldscdn.ml](https://discordworldscdn.ml) | Domain for our Content Delivery Network (CDN) <p>
+
+# Content Domain [discordworldscontent.ml](https://discordworldscontent.ml)
+• [discordworldscontent.ml](https://discordworldscontent.ml) | Domain for our Content
